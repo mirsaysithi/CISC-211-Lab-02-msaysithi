@@ -38,3 +38,6 @@
 *.elf
 *.hex
 *.s~
+/Lab-02-starter/firmware/Lab-02-starter.X/build/
+/Lab-02-starter/firmware/Lab-02-starter.X/dist/
+.DS_Store
